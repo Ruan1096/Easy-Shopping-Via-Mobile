@@ -24,7 +24,7 @@ Feedback Visual: Implementação de estados de hover e active nos botões e link
 4. Boas Práticas
 Uso de box-sizing: border-box para um controle preciso de espaçamentos (padding/border).
 
-HTML5 semântico com tags como <header>, <section> e <a> para melhor acessibilidade e SEO.
+HTML5 semântico com tags como header, section e a para melhor acessibilidade e SEO.
 
 🚀 Tecnologias
 HTML5
