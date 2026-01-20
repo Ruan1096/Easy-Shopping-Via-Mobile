@@ -55,10 +55,15 @@ Otimização de Toque: Aumentei a área clicável do botão e centralizei os ele
 
 Ajuste de Escala: A fonte do título é reduzida drasticamente de 70px para 36px via Media Queries para evitar que o usuário precise fazer muito scroll para ler a mensagem principal.
 
-Recurso,Implementação
-Cores Principais,Indigo Suave (#5D5D7D) e Lavanda (#9499EA)
-Tipografia,Oswald (Headers) e Sans-serif (Corpo)
-Unidades de Medida,Uso de vh e vw para garantir que a página ocupe 100% da viewport do usuário
-Interatividade,Transições de opacidade em 0.3s para um feedback suave ao usuário
+<img width="333" height="53" alt="image" src="https://github.com/user-attachments/assets/9670245c-d6a3-4c80-8458-972f9cc36f66" />
+
 
 Previa:
+<img width="469" height="269" alt="Easy Shopping Via Mobile" src="https://github.com/user-attachments/assets/ebc3932c-122e-427b-b38a-3985a8590004" />
+
+
+
+
+
+
+
