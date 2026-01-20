@@ -55,7 +55,7 @@ Otimização de Toque: Aumentei a área clicável do botão e centralizei os ele
 
 Ajuste de Escala: A fonte do título é reduzida drasticamente de 70px para 36px via Media Queries para evitar que o usuário precise fazer muito scroll para ler a mensagem principal.
 
-<img width="333" height="53" alt="image" src="https://github.com/user-attachments/assets/9670245c-d6a3-4c80-8458-972f9cc36f66" />
+<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/9670245c-d6a3-4c80-8458-972f9cc36f66" />
 
 
 Previa:
